@@ -1,6 +1,6 @@
 # One Dark Ocean Theme
 
-VSCode theme based on "Community Material Theme Ocean" by [Material Theme](https://github.com/material-theme) and "Atom One Dark Theme" by [Mahmoud Ali](https://github.com/akamud).
+VSCode theme based on [Community Material Theme Ocean](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme) by [Material Theme](https://github.com/material-theme) and [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) by [Mahmoud Ali](https://github.com/akamud).
 
 ## Installation
 
