@@ -1,4 +1,4 @@
-# One Dark Ocean
+# One Dark Ocean Theme
 
 VSCode theme based on "Community Material Theme Ocean" by [Material Theme](https://github.com/material-theme) and "Atom One Dark Theme" by [Mahmoud Ali](https://github.com/akamud).
 
