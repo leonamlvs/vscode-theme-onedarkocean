@@ -2,8 +2,13 @@
   "name": "vscode-theme-onedarkocean",
   "displayName": "One Dark Ocean Theme",
   "description": "VSCode dark theme based on \"Community Material Theme Ocean\" by Equinusocio and \"Atom One Dark Theme\" by Mahmoud Ali.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "leonamlvs",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0f111a",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/leonamlvs/vscode-theme-onedarkocean"
@@ -26,9 +31,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "One Dark Ocean",
+        "label": "Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/One Dark Ocean-color-theme.json"
+        "path": "./themes/one-dark-ocean-color-theme.json"
       }
     ]
   }
